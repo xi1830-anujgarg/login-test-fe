@@ -3,10 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 # How can improve this application
-By adding Auth mechanism etc on FE and BE.
-In Username expectation is to add email, but simple username is expecting, we can add multiple restrictions.
-We can put more password restriction according to business logic .
-Currently we are creating docker images, and manual deploy, but we can write CI/CD
+  1. By adding Auth mechanism etc on FE and BE.
+  2. In Username expectation is to add email, but simple username is expecting, we can add multiple restrictions.
+  3. We can put more password restriction according to business logic .
+  4. Currently we are creating docker images, and manual deploy, but we can write CI/CD
 
 ## Development server
 
