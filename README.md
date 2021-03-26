@@ -8,6 +8,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   3. We can put more password restriction according to business logic .
   4. Currently we are creating docker images, and manual deploy, but we can write CI/CD
 
+frontend
+=============================== Coverage summary ===============================
+
+Statements   : 79.17% ( 38/48 )
+
+Branches     : 75% ( 3/4 )
+
+Functions    : 60% ( 9/15 )
+
+Lines        : 77.27% ( 34/44 )
+
+================================================================================
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
